@@ -1,0 +1,1 @@
+s="hello new frnd file!!"
